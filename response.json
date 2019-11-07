@@ -1,0 +1,90 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "idx": "1",
+            "idx2": "2",
+            "nature": "t",
+            "tag": "ATT",
+            "word": "上周"
+        },
+        {
+            "idx": "2",
+            "idx2": "3",
+            "nature": "t",
+            "tag": "ATT",
+            "word": "周一"
+        },
+        {
+            "idx": "3",
+            "idx2": "4",
+            "nature": "t",
+            "tag": "ATT",
+            "word": "中午"
+        },
+        {
+            "idx": "4",
+            "idx2": "6",
+            "nature": "t",
+            "tag": "ADV",
+            "word": "12:30分"
+        },
+        {
+            "idx": "5",
+            "idx2": "6",
+            "nature": "nr",
+            "tag": "SBV",
+            "word": "张熠"
+        },
+        {
+            "idx": "6",
+            "idx2": "10",
+            "nature": "v",
+            "tag": "SBV",
+            "word": "坐"
+        },
+        {
+            "idx": "7",
+            "idx2": "6",
+            "nature": "n",
+            "tag": "VOB",
+            "word": "火车"
+        },
+        {
+            "idx": "8",
+            "idx2": "6",
+            "nature": "v",
+            "tag": "CMP",
+            "word": "去"
+        },
+        {
+            "idx": "9",
+            "idx2": "6",
+            "nature": "u",
+            "tag": "RAD",
+            "word": "的"
+        },
+        {
+            "idx": "10",
+            "idx2": "0",
+            "nature": "v",
+            "tag": "HED",
+            "word": "是"
+        },
+        {
+            "idx": "11",
+            "idx2": "10",
+            "nature": "r",
+            "tag": "VOB",
+            "word": "哪里"
+        },
+        {
+            "idx": "12",
+            "idx2": "10",
+            "nature": "w",
+            "tag": "WP",
+            "word": "？"
+        }
+    ],
+    "msg": ""
+}
